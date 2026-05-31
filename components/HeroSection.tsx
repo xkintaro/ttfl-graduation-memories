@@ -37,7 +37,7 @@ export default function HeroSection({
         <div className="mb-8 relative group">
           <div className="absolute -inset-1.5 rounded-full bg-linear-to-r from-[#c8a55a] via-[#a4843e] to-[#c8a55a] opacity-40 blur-md group-hover:opacity-75 transition duration-500" />
 
-          <div className="relative w-28 h-28 rounded-full border border-white/10 bg-white p-1 backdrop-blur-xl flex items-center justify-center">
+          <div className="relative w-32 h-32 rounded-full border border-white/10 bg-white p-1 backdrop-blur-xl flex items-center justify-center">
             <img
               src="/meb-logo.png"
               alt="Okul Logosu"
