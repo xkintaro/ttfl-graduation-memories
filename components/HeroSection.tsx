@@ -40,7 +40,7 @@ export default function HeroSection({
           <div className="relative w-32 h-32 rounded-full border border-white/10 bg-white p-1 backdrop-blur-xl flex items-center justify-center">
             <img
               src="/meb-logo.png"
-              alt="Okul Logosu"
+              alt="MEB LOGO"
               className="w-full h-full object-contain"
             />
           </div>
