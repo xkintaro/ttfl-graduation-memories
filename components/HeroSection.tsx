@@ -30,7 +30,7 @@ export default function HeroSection({
         <div className="mb-6 md:mb-10">
           <span className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full border border-[#c8a55a]/30 bg-[#c8a55a]/10 text-xs font-semibold tracking-wider text-[#c8a55a] uppercase shadow-[0_0_15px_rgba(99,102,241,0.2)]">
             <span className="w-1.5 h-1.5 rounded-full bg-[#c8a55a] animate-pulse" />
-            Mezuniyet 2026
+            12/B 2026
           </span>
         </div>
 

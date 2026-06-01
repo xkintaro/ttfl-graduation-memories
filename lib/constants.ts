@@ -5,4 +5,4 @@ export const SCHOOL_DESCRIPTION =
 
 export const GRADUATION_VIDEO_URL = "https://www.youtube.com/embed/s6OqJZSmgvo";
 
-export const GRADUATION_VIDEO_TITLE = "Mezuniyet 2026";
+export const GRADUATION_VIDEO_TITLE = "12/B 2026";
